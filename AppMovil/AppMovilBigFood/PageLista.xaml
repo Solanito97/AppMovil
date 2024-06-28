@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMovilBigFood.PageLista"
+             Title="Lista de Productos">
+    <ContentPage.Resources>
+        <Style x:Key="ProductLabelStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="Medium" />
+            <Setter Property="TextColor" Value="Black" />
+        </Style>
+        <Style x:Key="PriceLabelStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="Small" />
+            <Setter Property="TextColor" Value="Green" />
+        </Style>
+    </ContentPage.Resources>
+
+    <StackLayout Padding="10">
+        <ListView x:Name="productsListView" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Frame Margin="5" Padding="10" BorderColor="LightGray" CornerRadius="5">
+                            <StackLayout>
+                                <Label Text="{Binding Descripcion}" Style="{StaticResource ProductLabelStyle}" />
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Precio: " Style="{StaticResource PriceLabelStyle}" FontAttributes="Bold" />
+                                    <Label Text="{Binding PrecioVenta, StringFormat='${0:N2}'}" Style="{StaticResource PriceLabelStyle}" />
+                                </StackLayout>
+                            </StackLayout>
+                        </Frame>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

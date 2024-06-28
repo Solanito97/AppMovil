@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|c:\\users\\bjsol\\downloads\\appmovil\\appmovilbigfood\\pagelogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|solutionrelative:pagelogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|c:\\users\\bjsol\\downloads\\appmovil\\appmovilbigfood\\pagelista.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|solutionrelative:pagelista.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|c:\\users\\bjsol\\downloads\\appmovil\\appmovilbigfood\\pagelista.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|solutionrelative:pagelista.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|c:\\users\\bjsol\\downloads\\appmovil\\appmovilbigfood\\pagelogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|solutionrelative:pagelogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|c:\\users\\bjsol\\downloads\\appmovil\\appmovilbigfood\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|c:\\users\\bjsol\\downloads\\appmovil\\appmovilbigfood\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|c:\\users\\bjsol\\downloads\\appmovil\\appmovilbigfood\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|solutionrelative:productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|c:\\users\\bjsol\\downloads\\appmovil\\appmovilbigfood\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0721E8B6-E1AE-4D90-88A6-1294D883C634}|AppMovilBigFood.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:40:28.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:38:25.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageLista.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\PageLista.xaml.cs",
+              "RelativeDocumentMoniker": "PageLista.xaml.cs",
+              "ToolTip": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\PageLista.xaml.cs",
+              "RelativeToolTip": "PageLista.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:35:18.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageLista.xaml",
+              "DocumentMoniker": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\PageLista.xaml",
+              "RelativeDocumentMoniker": "PageLista.xaml",
+              "ToolTip": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\PageLista.xaml",
+              "RelativeToolTip": "PageLista.xaml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T05:26:02.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageLogin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\PageLogin.xaml.cs",
+              "RelativeDocumentMoniker": "PageLogin.xaml.cs",
+              "ToolTip": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\PageLogin.xaml.cs",
+              "RelativeToolTip": "PageLogin.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:25:36.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageLogin.xaml",
+              "DocumentMoniker": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\PageLogin.xaml",
+              "RelativeDocumentMoniker": "PageLogin.xaml",
+              "ToolTip": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\PageLogin.xaml",
+              "RelativeToolTip": "PageLogin.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T05:25:28.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:20:49.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\Productos.cs",
+              "RelativeDocumentMoniker": "Productos.cs",
+              "ToolTip": "C:\\Users\\bjsol\\Downloads\\AppMovil\\AppMovilBigFood\\Productos.cs",
+              "RelativeToolTip": "Productos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:20:34.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
